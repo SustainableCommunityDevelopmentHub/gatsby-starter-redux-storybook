@@ -110,4 +110,4 @@ To deploy the site on netlify enter the following under the **`Build settings`**
 **`Publish directory:`**    storybook
 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/fabianunger/gatsby-starter-redux-storybook)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/SustainableCommunityDevelopmentHub/gatsby-starter-redux-storybook )
